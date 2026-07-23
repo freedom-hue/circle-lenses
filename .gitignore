@@ -1,0 +1,12 @@
+# 忽略 Python 运行产生的缓存
+__pycache__/
+*.pyc
+
+# 忽略打包产生的临时目录和产物
+build/
+dist/
+*.spec
+
+# 忽略编辑器配置
+.vscode/
+.idea/
