@@ -1,4 +1,4 @@
-# 憨憨美瞳面诊体验馆 (Advanced Lens Studio) 项目文档
+# 憨憨美瞳面诊体验馆 (Advanced Lens Studio) 项目文档（app18是最新版本哦）
 
 ## 一、 项目概述与核心价值
 
